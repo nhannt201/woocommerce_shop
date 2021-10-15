@@ -30,7 +30,7 @@ define( 'DB_NAME', 'phong123_blog' );
 /** Username của database */
 define( 'DB_USER', 'phong123_log' );
 /** Mật khẩu của database */
-define( 'DB_PASSWORD', '@kinhDoanh99' );
+define( 'DB_PASSWORD', '' );
 /** Hostname của database */
 define( 'DB_HOST', 'localhost' );
 /** Database charset sử dụng để tạo bảng database. */
